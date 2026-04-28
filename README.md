@@ -138,7 +138,7 @@ El backlog está organizado en **8 épicas**, priorizadas usando **MoSCoW** (Mus
 
 ---
 
-> **Total Story Points: 312 SP** distribuidos en 7 sprints de 2 semanas (velocidad objetivo: 40 SP/sprint).
+> **Total Story Points: 234 SP** distribuidos en 7 sprints de 2 semanas (velocidad objetivo: 40 SP/sprint).
 
 ---
 
@@ -176,18 +176,18 @@ La estimación sigue la metodología Scrum: **Story Points → Velocidad → Nú
 | Sprint 5 | 9–10 | Analytics + reportes + KPIs | 40 | $29,800 |
 | Sprint 6 | 11–12 | Operaciones, monitoreo, prueba de carga | 40 | $29,800 |
 | Sprint 7 | 13–14 | UAT, pentest, despliegue a producción | 42 | $29,800 |
-| **TOTAL** | **14 semanas** | | **312 SP** | **$208,600** |
+| **TOTAL** | **14 semanas** | | **234 SP** | **$208,600** |
 
 #### Resumen Presupuestario
 
 | Categoría | Estimado Bajo | Estimado Base | Estimado Alto |
 |-----------|--------------|---------------|---------------|
 | Labor — Desarrollo (7 sprints) | $177,310 | $208,600 | $238,400 |
-| Tecnología & Cloud (Año 1) | $14,760 | $18,450 | $22,140 |
+| Tecnología & Cloud (Año 1) | $8,438 | $10,549 | $12,658 |
 | QA & Auditoría de Seguridad | $3,000 | $3,500 | $5,000 |
 | Contingencia (15% sobre labor) | $17,731 | $31,290 | $47,680 |
-| Gestión de Proyecto (overhead) | $10,430 | $16,688 | $23,840 |
-| **GRAN TOTAL** | **$223,231** | **$278,528** | **$337,060** |
+| Gestión de Proyecto | $10,430 | $16,688 | $23,840 |
+| **GRAN TOTAL** | **$216,909** | **$270,626** | **$327,578** |
 
 > Ver el archivo Excel adjunto (`Municipal_Platform_Budget.xlsx`) para el modelo completo con todas las fórmulas dinámicas, desglose por épica y hoja de costos tecnológicos.
 
